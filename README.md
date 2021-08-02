@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C/C++/Python**
 
-- 📫 Reach me at **aryanblouria@gmail.com**
+- 📫 Reach me at **https://www.linkedin.com/in/aryanblouria/**
 
 - ⚡ Fun fact **I love anime!**
 
