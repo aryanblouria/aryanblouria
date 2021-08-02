@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Blouria</h1>
 <h3 align="center">A budding programmer and web development/ data science enthusiast</h3>
-<h6 align="center"><a href="https://github.com/aryanblouria"><img src="https://avatars.githubusercontent.com/u/57865255?v=4" alt="my face" height="100" width="100"/></a></h6>
+<h6 align="center"><a href="https://github.com/aryanblouria"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/57865255?v=4" alt="my face" height="200" width="200"/></a></h6>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanblouria&label=Profile%20views&color=0e75b6&style=flat" alt="aryanblouria" /> </p>
