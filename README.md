@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20" width="20" />
+<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="60" width="20" />
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanblouria&show_icons=true&locale=en&layout=compact" alt="aryanblouria" /></p>
