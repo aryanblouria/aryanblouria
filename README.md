@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C/C++/Python**
 
-- 📫 Connect with me at **<a href="https://www.linkedin.com/in/aryanblouria">Linkedin</a>**
+- 📫 Connect with me on **<a href="https://www.linkedin.com/in/aryanblouria">Linkedin</a>**
 
 - ⚡ Fun fact **I love anime!**
 
