@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanblouria&label=Profile%20views&color=0e75b6&style=flat" alt="aryanblouria" /> </p>
 
-- 🔭 I’m currently working on front-end mini-projects
+- 🔭 I’m currently working on **front-end mini-projects**
 
 - 🌱 I’m currently learning Data Structures and Algorithms
 
