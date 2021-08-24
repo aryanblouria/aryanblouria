@@ -5,15 +5,15 @@
 <div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryanblouria&label=Profile%20views&color=0e75b6&style=flat" alt="aryanblouria" /> </p>
 
-- 🔭 I’m currently working on **front-end mini-projects**
+🔭 I’m currently working on **front-end mini-projects**
 
-- 🌱 I’m currently learning Data Structures and Algorithms
+🌱 I’m currently learning Data Structures and Algorithms
 
-- 💬 Ask me about **C/C++/Python**
+💬 Ask me about **C/C++/Python**
 
-- 📫 Connect with me on **<a href="https://www.linkedin.com/in/aryanblouria">Linkedin</a>**
+📫 Connect with me on **<a href="https://www.linkedin.com/in/aryanblouria">Linkedin</a>**
 
-- ⚡ Fun fact **I love anime!**
+⚡ Fun fact **I love anime!**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
