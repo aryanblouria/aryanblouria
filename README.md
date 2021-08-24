@@ -2,6 +2,7 @@
 <h3 align="center">A budding programmer and web development/ data science enthusiast</h3>
 <br>
 
+<div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanblouria&label=Profile%20views&color=0e75b6&style=flat" alt="aryanblouria" /> </p>
 
 - 🔭 I’m currently working on **front-end mini-projects**
@@ -29,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanblouria&show_icons=true&theme=radical&locale=en" alt="aryanblouria" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanblouria&theme=radical" alt="aryanblouria" /></p>
-
+</div>
