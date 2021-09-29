@@ -13,7 +13,7 @@
 
 📫 Connect with me on **<a href="https://www.linkedin.com/in/aryanblouria">Linkedin</a>**
 
-⚡ Fun fact **I love anime!**
+⚡ Fun fact **I really love anime!**
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
