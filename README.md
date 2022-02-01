@@ -4,17 +4,17 @@
 
 <div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryanblouria&label=Profile%20views&color=0e75b6&style=flat" alt="aryanblouria" /> </p>
-- 🔭 I’m currently working on **interview preparation**
+  
+🔭 I’m currently working on **placement preparation**
 
-- 🌱 I’m currently learning **data structures and algorithms**
+🌱 I’m currently learning **data structures and algorithms**
+  
+💬 Ask me about **C, C++ and Python**
 
-- 👨‍💻 All of my projects are available at [aryanblouria.github.io](aryanblouria.github.io)
+📫 Connect with me on **[Linkedin](https://www.linkedin.com/in/aryanblouria/)**
 
-- 💬 Ask me about **C, C++ and Python**
-
-- 📫 Connect with me on **Linkedin**
-
-- ⚡ Fun fact **I watch too much anime**
+⚡ Fun fact **I watch too much anime**
+  
 <hr>
 <h3 align="center">Programming Languages</h3 />
   
