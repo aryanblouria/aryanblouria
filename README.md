@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Aryan Blouria</h1>
-<h3 align="center">A budding programmer and web development/ data science enthusiast</h3>
+<h3 align="center">Data Science, Web Development and Cyber Security enthusiast</h3>
 <hr>
 
 <div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryanblouria&label=Profile%20views&color=0e75b6&style=flat" alt="aryanblouria" /> </p>
+- 🔭 I’m currently working on **interview preparation**
 
-🔭 I’m currently working on my **problem-solving** skills.
+- 🌱 I’m currently learning **data structures and algorithms**
 
-🌱 I’m currently learning Data Structures and Algorithms
+- 👨‍💻 All of my projects are available at [aryanblouria.github.io](aryanblouria.github.io)
 
-💬 Ask me about **C/C++/Python/Java**
+- 💬 Ask me about **C, C++ and Python**
 
-📫 Connect with me on **<a href="https://www.linkedin.com/in/aryanblouria">Linkedin</a>**
+- 📫 Connect with me on **Linkedin**
 
-⚡ Fun fact **I really love anime!**
+- ⚡ Fun fact **I watch too much anime**
 <hr>
 <h3 align="center">Programming Languages</h3 />
   
