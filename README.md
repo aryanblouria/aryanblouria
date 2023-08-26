@@ -5,9 +5,9 @@
 <div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryanblouria&label=Profile%20views&color=0e75b6&style=flat" alt="aryanblouria" /> </p>
   
-🔭 I’m currently working on **placement preparation**
+🔭 I’m currently working on **DevOps skills**
 
-🌱 I’m currently learning **data structures and algorithms**
+🌱 I’m currently learning **Cloud Technologies**
   
 💬 Ask me about **C, C++ and Python**
 
