@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aryan Blouria</h1>
-<h3 align="center">Data Science, Web Development and Cyber Security enthusiast</h3>
+<h3 align="center">MBA Student, Former Programmer</h3>
 <hr>
 
 <div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryanblouria&label=Profile%20views&color=0e75b6&style=flat" alt="aryanblouria" /> </p>
   
-🔭 I’m currently working on **DevOps skills**
+🔭 I’m currently working on **Management Skills**
 
-🌱 I’m currently learning **Cloud Technologies**
+🌱 I’m currently learning **Corporate Finance**
   
-💬 Ask me about **C, C++ and Python**
+💬 Ask me about **Business or Tech**
 
 📫 Connect with me on **[Linkedin](https://www.linkedin.com/in/aryanblouria/)**
 
-⚡ Fun fact **I watch too much anime**
+⚡ Fun fact **I play a lot of video games**
   
 <hr>
 <h3 align="center">Programming Languages</h3 />
